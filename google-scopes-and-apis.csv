@@ -1,0 +1,433 @@
+"Google API", "Google Scope"
+"AI Platform Training & Prediction API, v1", https://www.googleapis.com/auth/cloud-platform
+"AI Platform Training & Prediction API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Access Approval API, v1", https://www.googleapis.com/auth/cloud-platform
+"Access Context Manager API, v1", https://www.googleapis.com/auth/cloud-platform
+"Ad Exchange Buyer API, v1.4", https://www.googleapis.com/auth/adexchange.buyer
+"Ad Exchange Buyer API II, v2beta1", https://www.googleapis.com/auth/adexchange.buyer
+"AdMob API, v1", https://www.googleapis.com/auth/admob.readonly
+"AdMob API, v1", https://www.googleapis.com/auth/admob.report
+"AdSense Host API, v4.1", https://www.googleapis.com/auth/adsensehost
+"AdSense Management API, v1.4", https://www.googleapis.com/auth/adsense
+"AdSense Management API, v1.4", https://www.googleapis.com/auth/adsense.readonly
+"Admin Data Transfer API, v1", https://www.googleapis.com/auth/admin.datatransfer
+"Admin Data Transfer API, v1", https://www.googleapis.com/auth/admin.datatransfer.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.customer
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.customer.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.device.chromeos
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.device.chromeos.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.device.mobile
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.device.mobile.action
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.device.mobile.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.domain
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.domain.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.group
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.group.member
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.group.member.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.group.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.orgunit
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.orgunit.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.resource.calendar
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.resource.calendar.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.rolemanagement
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.rolemanagement.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.user
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.user.alias
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.user.alias.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.user.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.user.security
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.userschema
+"Admin Directory API, v1", https://www.googleapis.com/auth/admin.directory.userschema.readonly
+"Admin Directory API, v1", https://www.googleapis.com/auth/cloud-platform
+"Admin Reports API, v1", https://www.googleapis.com/auth/admin.reports.audit.readonly
+"Admin Reports API, v1", https://www.googleapis.com/auth/admin.reports.usage.readonly
+"Analytics Reporting API, v4", https://www.googleapis.com/auth/analytics
+"Analytics Reporting API, v4", https://www.googleapis.com/auth/analytics.readonly
+"Android Management API, v1", https://www.googleapis.com/auth/androidmanagement
+"Apigee API, v1", https://www.googleapis.com/auth/cloud-platform
+"App Engine Admin API, v1", https://www.googleapis.com/auth/appengine.admin
+"App Engine Admin API, v1", https://www.googleapis.com/auth/cloud-platform
+"App Engine Admin API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Apps Script API, v1", https://mail.google.com/
+"Apps Script API, v1", https://www.google.com/calendar/feeds
+"Apps Script API, v1", https://www.google.com/m8/feeds
+"Apps Script API, v1", https://www.googleapis.com/auth/admin.directory.group
+"Apps Script API, v1", https://www.googleapis.com/auth/admin.directory.user
+"Apps Script API, v1", https://www.googleapis.com/auth/documents
+"Apps Script API, v1", https://www.googleapis.com/auth/drive
+"Apps Script API, v1", https://www.googleapis.com/auth/forms
+"Apps Script API, v1", https://www.googleapis.com/auth/forms.currentonly
+"Apps Script API, v1", https://www.googleapis.com/auth/groups
+"Apps Script API, v1", https://www.googleapis.com/auth/script.deployments
+"Apps Script API, v1", https://www.googleapis.com/auth/script.deployments.readonly
+"Apps Script API, v1", https://www.googleapis.com/auth/script.metrics
+"Apps Script API, v1", https://www.googleapis.com/auth/script.processes
+"Apps Script API, v1", https://www.googleapis.com/auth/script.projects
+"Apps Script API, v1", https://www.googleapis.com/auth/script.projects.readonly
+"Apps Script API, v1", https://www.googleapis.com/auth/spreadsheets
+"Apps Script API, v1", https://www.googleapis.com/auth/userinfo.email
+"BigQuery API, v2", https://www.googleapis.com/auth/bigquery
+"BigQuery API, v2", https://www.googleapis.com/auth/bigquery.insertdata
+"BigQuery API, v2", https://www.googleapis.com/auth/bigquery.readonly
+"BigQuery API, v2", https://www.googleapis.com/auth/cloud-platform
+"BigQuery API, v2", https://www.googleapis.com/auth/cloud-platform.read-only
+"BigQuery API, v2", https://www.googleapis.com/auth/devstorage.full_control
+"BigQuery API, v2", https://www.googleapis.com/auth/devstorage.read_only
+"BigQuery API, v2", https://www.googleapis.com/auth/devstorage.read_write
+"BigQuery Connection API, v1beta1", https://www.googleapis.com/auth/bigquery
+"BigQuery Connection API, v1beta1", https://www.googleapis.com/auth/cloud-platform
+"BigQuery Data Transfer API, v1", https://www.googleapis.com/auth/bigquery
+"BigQuery Data Transfer API, v1", https://www.googleapis.com/auth/bigquery.readonly
+"BigQuery Data Transfer API, v1", https://www.googleapis.com/auth/cloud-platform
+"BigQuery Data Transfer API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"BigQuery Reservation API, v1", https://www.googleapis.com/auth/bigquery
+"BigQuery Reservation API, v1", https://www.googleapis.com/auth/cloud-platform
+"Binary Authorization API, v1", https://www.googleapis.com/auth/cloud-platform
+"Blogger API, v3", https://www.googleapis.com/auth/blogger
+"Blogger API, v3", https://www.googleapis.com/auth/blogger.readonly
+"Books API, v1", https://www.googleapis.com/auth/books
+"Calendar API, v3", https://www.googleapis.com/auth/calendar
+"Calendar API, v3", https://www.googleapis.com/auth/calendar.events
+"Calendar API, v3", https://www.googleapis.com/auth/calendar.events.readonly
+"Calendar API, v3", https://www.googleapis.com/auth/calendar.readonly
+"Calendar API, v3", https://www.googleapis.com/auth/calendar.settings.readonly
+"Campaign Manager 360 API, v3.4", https://www.googleapis.com/auth/ddmconversions
+"Campaign Manager 360 API, v3.4", https://www.googleapis.com/auth/dfareporting
+"Campaign Manager 360 API, v3.4", https://www.googleapis.com/auth/dfatrafficking
+"Chrome Verified Access API, v1", https://www.googleapis.com/auth/verifiedaccess
+"Cloud Asset API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/bigtable.admin
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/bigtable.admin.cluster
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/bigtable.admin.instance
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/bigtable.admin.table
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/cloud-bigtable.admin
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/cloud-bigtable.admin.cluster
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/cloud-bigtable.admin.table
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Bigtable Admin API, v2", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Billing API, v1", https://www.googleapis.com/auth/cloud-billing
+"Cloud Billing API, v1", https://www.googleapis.com/auth/cloud-billing.readonly
+"Cloud Billing API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Build API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Composer API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud DNS API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud DNS API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud DNS API, v1", https://www.googleapis.com/auth/ndev.clouddns.readonly
+"Cloud DNS API, v1", https://www.googleapis.com/auth/ndev.clouddns.readwrite
+"Cloud Data Loss Prevention (DLP) API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Dataproc API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Datastore API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Datastore API, v1", https://www.googleapis.com/auth/datastore
+"Cloud Debugger API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Debugger API, v2", https://www.googleapis.com/auth/cloud_debugger
+"Cloud Deployment Manager V2 API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Deployment Manager V2 API, v2", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Deployment Manager V2 API, v2", https://www.googleapis.com/auth/ndev.cloudman
+"Cloud Deployment Manager V2 API, v2", https://www.googleapis.com/auth/ndev.cloudman.readonly
+"Cloud Filestore API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Firestore API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Firestore API, v1", https://www.googleapis.com/auth/datastore
+"Cloud Functions API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Healthcare API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Identity API, v1", https://www.googleapis.com/auth/cloud-identity.devices.lookup
+"Cloud Identity API, v1", https://www.googleapis.com/auth/cloud-identity.groups
+"Cloud Identity API, v1", https://www.googleapis.com/auth/cloud-identity.groups.readonly
+"Cloud Identity API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Identity-Aware Proxy API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud IoT API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud IoT API, v1", https://www.googleapis.com/auth/cloudiot
+"Cloud Key Management Service (KMS) API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Key Management Service (KMS) API, v1", https://www.googleapis.com/auth/cloudkms
+"Cloud Life Sciences API, v2beta", https://www.googleapis.com/auth/cloud-platform
+"Cloud Logging API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Logging API, v2", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Logging API, v2", https://www.googleapis.com/auth/logging.admin
+"Cloud Logging API, v2", https://www.googleapis.com/auth/logging.read
+"Cloud Logging API, v2", https://www.googleapis.com/auth/logging.write
+"Cloud Memorystore for Memcached API, v1beta2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Monitoring API, v3", https://www.googleapis.com/auth/cloud-platform
+"Cloud Monitoring API, v3", https://www.googleapis.com/auth/monitoring
+"Cloud Monitoring API, v3", https://www.googleapis.com/auth/monitoring.read
+"Cloud Monitoring API, v3", https://www.googleapis.com/auth/monitoring.write
+"Cloud Natural Language API, v1", https://www.googleapis.com/auth/cloud-language
+"Cloud Natural Language API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud OS Login API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud OS Login API, v1", https://www.googleapis.com/auth/compute
+"Cloud Pub/Sub API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Pub/Sub API, v1", https://www.googleapis.com/auth/pubsub
+"Cloud Resource Manager API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Resource Manager API, v2", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Run Admin API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Runtime Configuration API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Runtime Configuration API, v1", https://www.googleapis.com/auth/cloudruntimeconfig
+"Cloud SQL Admin API, v1beta4", https://www.googleapis.com/auth/cloud-platform
+"Cloud SQL Admin API, v1beta4", https://www.googleapis.com/auth/sqlservice.admin
+"Cloud Scheduler API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.debug
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.indexing
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.query
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.settings
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.settings.indexing
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.settings.query
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.stats
+"Cloud Search API, v1", https://www.googleapis.com/auth/cloud_search.stats.indexing
+"Cloud Shell API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Source Repositories API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Source Repositories API, v1", https://www.googleapis.com/auth/source.full_control
+"Cloud Source Repositories API, v1", https://www.googleapis.com/auth/source.read_only
+"Cloud Source Repositories API, v1", https://www.googleapis.com/auth/source.read_write
+"Cloud Spanner API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Spanner API, v1", https://www.googleapis.com/auth/spanner.admin
+"Cloud Spanner API, v1", https://www.googleapis.com/auth/spanner.data
+"Cloud Speech-to-Text API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Storage JSON API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Storage JSON API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Storage JSON API, v1", https://www.googleapis.com/auth/devstorage.full_control
+"Cloud Storage JSON API, v1", https://www.googleapis.com/auth/devstorage.read_only
+"Cloud Storage JSON API, v1", https://www.googleapis.com/auth/devstorage.read_write
+"Cloud TPU API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Tasks API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Testing API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Testing API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Cloud Text-to-Speech API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Tool Results API, v1beta3", https://www.googleapis.com/auth/cloud-platform
+"Cloud Trace API, v2", https://www.googleapis.com/auth/cloud-platform
+"Cloud Trace API, v2", https://www.googleapis.com/auth/trace.append
+"Cloud Translation API, v3", https://www.googleapis.com/auth/cloud-platform
+"Cloud Translation API, v3", https://www.googleapis.com/auth/cloud-translation
+"Cloud Video Intelligence API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Vision API, v1", https://www.googleapis.com/auth/cloud-platform
+"Cloud Vision API, v1", https://www.googleapis.com/auth/cloud-vision
+"Compute Engine API, v1", https://www.googleapis.com/auth/cloud-platform
+"Compute Engine API, v1", https://www.googleapis.com/auth/compute
+"Compute Engine API, v1", https://www.googleapis.com/auth/compute.readonly
+"Compute Engine API, v1", https://www.googleapis.com/auth/devstorage.full_control
+"Compute Engine API, v1", https://www.googleapis.com/auth/devstorage.read_only
+"Compute Engine API, v1", https://www.googleapis.com/auth/devstorage.read_write
+"Container Analysis API, v1beta1", https://www.googleapis.com/auth/cloud-platform
+"Content API for Shopping, v2.1", https://www.googleapis.com/auth/content
+"Dataflow API, v1b3", https://www.googleapis.com/auth/cloud-platform
+"Dataflow API, v1b3", https://www.googleapis.com/auth/compute
+"Dataflow API, v1b3", https://www.googleapis.com/auth/compute.readonly
+"Dataflow API, v1b3", https://www.googleapis.com/auth/userinfo.email
+"Display & Video 360 API, v1", https://www.googleapis.com/auth/display-video
+"Display & Video 360 API, v1", https://www.googleapis.com/auth/display-video-mediaplanning
+"Display & Video 360 API, v1", https://www.googleapis.com/auth/display-video-user-management
+"Display & Video 360 API, v1", https://www.googleapis.com/auth/doubleclickbidmanager
+"DoubleClick Bid Manager API, v1.1", https://www.googleapis.com/auth/doubleclickbidmanager
+"Drive API, v3", https://www.googleapis.com/auth/drive
+"Drive API, v3", https://www.googleapis.com/auth/drive.appdata
+"Drive API, v3", https://www.googleapis.com/auth/drive.file
+"Drive API, v3", https://www.googleapis.com/auth/drive.metadata
+"Drive API, v3", https://www.googleapis.com/auth/drive.metadata.readonly
+"Drive API, v3", https://www.googleapis.com/auth/drive.photos.readonly
+"Drive API, v3", https://www.googleapis.com/auth/drive.readonly
+"Drive API, v3", https://www.googleapis.com/auth/drive.scripts
+"Drive Activity API, v2", https://www.googleapis.com/auth/drive.activity
+"Drive Activity API, v2", https://www.googleapis.com/auth/drive.activity.readonly
+"Enterprise License Manager API, v1", https://www.googleapis.com/auth/apps.licensing
+"Error Reporting API, v1beta1", https://www.googleapis.com/auth/cloud-platform
+"Fact Check Tools API, v1alpha1", https://www.googleapis.com/auth/userinfo.email
+"Firebase Cloud Messaging API, v1", https://www.googleapis.com/auth/cloud-platform
+"Firebase Dynamic Links API, v1", https://www.googleapis.com/auth/firebase
+"Firebase Management API, v1beta1", https://www.googleapis.com/auth/cloud-platform
+"Firebase Management API, v1beta1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Firebase Management API, v1beta1", https://www.googleapis.com/auth/firebase
+"Firebase Management API, v1beta1", https://www.googleapis.com/auth/firebase.readonly
+"Firebase Rules API, v1", https://www.googleapis.com/auth/cloud-platform
+"Firebase Rules API, v1", https://www.googleapis.com/auth/firebase
+"Firebase Rules API, v1", https://www.googleapis.com/auth/firebase.readonly
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.activity.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.activity.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.blood_glucose.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.blood_glucose.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.blood_pressure.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.blood_pressure.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.body.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.body.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.body_temperature.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.body_temperature.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.heart_rate.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.heart_rate.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.location.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.location.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.nutrition.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.nutrition.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.oxygen_saturation.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.oxygen_saturation.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.reproductive_health.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.reproductive_health.write
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.sleep.read
+"Fitness API, v1", https://www.googleapis.com/auth/fitness.sleep.write
+"G Suite Vault API, v1", https://www.googleapis.com/auth/ediscovery
+"G Suite Vault API, v1", https://www.googleapis.com/auth/ediscovery.readonly
+"Genomics API, v1", https://www.googleapis.com/auth/cloud-platform
+"Genomics API, v1", https://www.googleapis.com/auth/genomics
+"Gmail API, v1", https://mail.google.com/
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.addons.current.action.compose
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.addons.current.message.action
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.addons.current.message.metadata
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.addons.current.message.readonly
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.compose
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.insert
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.labels
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.metadata
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.modify
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.readonly
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.send
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.settings.basic
+"Gmail API, v1", https://www.googleapis.com/auth/gmail.settings.sharing
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.edit
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.manage.users
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.manage.users.readonly
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.provision
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.readonly
+"Google Analytics API, v3", https://www.googleapis.com/auth/analytics.user.deletion
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.announcements
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.announcements.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.courses
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.courses.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.coursework.me
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.coursework.me.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.coursework.students
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.coursework.students.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.courseworkmaterials
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.courseworkmaterials.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.guardianlinks.me.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.guardianlinks.students
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.guardianlinks.students.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.profile.emails
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.profile.photos
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.push-notifications
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.rosters
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.rosters.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.student-submissions.me.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.student-submissions.students.readonly
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.topics
+"Google Classroom API, v1", https://www.googleapis.com/auth/classroom.topics.readonly
+"Google Cloud Data Catalog API, v1beta1", https://www.googleapis.com/auth/cloud-platform
+"Google Cloud Memorystore for Redis API, v1", https://www.googleapis.com/auth/cloud-platform
+"Google Docs API, v1", https://www.googleapis.com/auth/documents
+"Google Docs API, v1", https://www.googleapis.com/auth/documents.readonly
+"Google Docs API, v1", https://www.googleapis.com/auth/drive
+"Google Docs API, v1", https://www.googleapis.com/auth/drive.file
+"Google Docs API, v1", https://www.googleapis.com/auth/drive.readonly
+"Google Identity Toolkit API, v3", https://www.googleapis.com/auth/cloud-platform
+"Google Identity Toolkit API, v3", https://www.googleapis.com/auth/firebase
+"Google OAuth2 API, v2", https://www.googleapis.com/auth/userinfo.email
+"Google OAuth2 API, v2", https://www.googleapis.com/auth/userinfo.profile
+"Google OAuth2 API, v2", openid
+"Google Play Android Developer API, v3", https://www.googleapis.com/auth/androidpublisher
+"Google Play Custom App Publishing API, v1", https://www.googleapis.com/auth/androidpublisher
+"Google Play EMM API, v1", https://www.googleapis.com/auth/androidenterprise
+"Google Play Game Management, v1management", https://www.googleapis.com/auth/games
+"Google Play Game Services, v1", https://www.googleapis.com/auth/drive.appdata
+"Google Play Game Services, v1", https://www.googleapis.com/auth/games
+"Google Play Game Services Publishing API, v1configuration", https://www.googleapis.com/auth/androidpublisher
+"Google Search Console API, v1", https://www.googleapis.com/auth/webmasters
+"Google Search Console API, v1", https://www.googleapis.com/auth/webmasters.readonly
+"Google Sheets API, v4", https://www.googleapis.com/auth/drive
+"Google Sheets API, v4", https://www.googleapis.com/auth/drive.file
+"Google Sheets API, v4", https://www.googleapis.com/auth/drive.readonly
+"Google Sheets API, v4", https://www.googleapis.com/auth/spreadsheets
+"Google Sheets API, v4", https://www.googleapis.com/auth/spreadsheets.readonly
+"Google Sign-In", profile
+"Google Sign-In", email
+"Google Sign-In", openid
+"Google Site Verification API, v1", https://www.googleapis.com/auth/siteverification
+"Google Site Verification API, v1", https://www.googleapis.com/auth/siteverification.verify_only
+"Google Slides API, v1", https://www.googleapis.com/auth/drive
+"Google Slides API, v1", https://www.googleapis.com/auth/drive.file
+"Google Slides API, v1", https://www.googleapis.com/auth/drive.readonly
+"Google Slides API, v1", https://www.googleapis.com/auth/presentations
+"Google Slides API, v1", https://www.googleapis.com/auth/presentations.readonly
+"Google Slides API, v1", https://www.googleapis.com/auth/spreadsheets
+"Google Slides API, v1", https://www.googleapis.com/auth/spreadsheets.readonly
+"Google Workspace Alert Center API, v1beta1", https://www.googleapis.com/auth/apps.alerts
+"Google Workspace Reseller API, v1", https://www.googleapis.com/auth/apps.order
+"Google Workspace Reseller API, v1", https://www.googleapis.com/auth/apps.order.readonly
+"Groups Migration API, v1", https://www.googleapis.com/auth/apps.groups.migration
+"Groups Settings API, v1", https://www.googleapis.com/auth/apps.groups.settings
+"HomeGraph API, v1", https://www.googleapis.com/auth/homegraph
+"IAM Service Account Credentials API, v1", https://www.googleapis.com/auth/cloud-platform
+"Identity and Access Management (IAM) API, v1", https://www.googleapis.com/auth/cloud-platform
+"Indexing API, v3", https://www.googleapis.com/auth/indexing
+"Kubernetes Engine API, v1", https://www.googleapis.com/auth/cloud-platform
+"Library Agent API, v1", https://www.googleapis.com/auth/cloud-platform
+"Managed Service for Microsoft Active Directory API, v1", https://www.googleapis.com/auth/cloud-platform
+"Manufacturer Center API, v1", https://www.googleapis.com/auth/manufacturercenter
+"Network Management API, v1", https://www.googleapis.com/auth/cloud-platform
+"OS Config API, v1", https://www.googleapis.com/auth/cloud-platform
+"OpenID Connect, 1.0", openid
+"OpenID Connect, 1.0", profile
+"OpenID Connect, 1.0", email
+"PageSpeed Insights API, v5", openid
+"People API, v1", https://www.googleapis.com/auth/contacts
+"People API, v1", https://www.googleapis.com/auth/contacts.other.readonly
+"People API, v1", https://www.googleapis.com/auth/contacts.readonly
+"People API, v1", https://www.googleapis.com/auth/directory.readonly
+"People API, v1", https://www.googleapis.com/auth/user.addresses.read
+"People API, v1", https://www.googleapis.com/auth/user.birthday.read
+"People API, v1", https://www.googleapis.com/auth/user.emails.read
+"People API, v1", https://www.googleapis.com/auth/user.gender.read
+"People API, v1", https://www.googleapis.com/auth/user.organization.read
+"People API, v1", https://www.googleapis.com/auth/user.phonenumbers.read
+"People API, v1", https://www.googleapis.com/auth/userinfo.email
+"People API, v1", https://www.googleapis.com/auth/userinfo.profile
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary.appendonly
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary.edit.appcreateddata
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary.readonly
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary.readonly.appcreateddata
+"Photos Library API, v1", https://www.googleapis.com/auth/photoslibrary.sharing
+"Policy Troubleshooter API, v1", https://www.googleapis.com/auth/cloud-platform
+"Recommender API, v1", https://www.googleapis.com/auth/cloud-platform
+"Remote Build Execution API, v2", https://www.googleapis.com/auth/cloud-platform
+"SAS Portal API, v1alpha1", https://www.googleapis.com/auth/userinfo.email
+"SAS Portal API (Testing), v1alpha1", https://www.googleapis.com/auth/userinfo.email
+"Search Ads 360 API, v2", https://www.googleapis.com/auth/doubleclicksearch
+"Search Console API, v3", https://www.googleapis.com/auth/webmasters
+"Search Console API, v3", https://www.googleapis.com/auth/webmasters.readonly
+"Secret Manager API, v1", https://www.googleapis.com/auth/cloud-platform
+"Security Command Center API, v1", https://www.googleapis.com/auth/cloud-platform
+"Service Consumer Management API, v1", https://www.googleapis.com/auth/cloud-platform
+"Service Management API, v1", https://www.googleapis.com/auth/cloud-platform
+"Service Management API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Service Management API, v1", https://www.googleapis.com/auth/service.management
+"Service Management API, v1", https://www.googleapis.com/auth/service.management.readonly
+"Service Networking API, v1", https://www.googleapis.com/auth/cloud-platform
+"Service Networking API, v1", https://www.googleapis.com/auth/service.management
+"Service Usage API, v1", https://www.googleapis.com/auth/cloud-platform
+"Service Usage API, v1", https://www.googleapis.com/auth/cloud-platform.read-only
+"Service Usage API, v1", https://www.googleapis.com/auth/service.management
+"Stackdriver Profiler API, v2", https://www.googleapis.com/auth/cloud-platform
+"Stackdriver Profiler API, v2", https://www.googleapis.com/auth/monitoring
+"Stackdriver Profiler API, v2", https://www.googleapis.com/auth/monitoring.write
+"Storage Transfer API, v1", https://www.googleapis.com/auth/cloud-platform
+"Street View Publish API, v1", https://www.googleapis.com/auth/streetviewpublish
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.delete.containers
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.edit.containers
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.edit.containerversions
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.manage.accounts
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.manage.users
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.publish
+"Tag Manager API, v2", https://www.googleapis.com/auth/tagmanager.readonly
+"Tasks API, v1", https://www.googleapis.com/auth/tasks
+"Tasks API, v1", https://www.googleapis.com/auth/tasks.readonly
+"Web Security Scanner API, v1", https://www.googleapis.com/auth/cloud-platform
+"YouTube Analytics API, v2", https://www.googleapis.com/auth/youtube
+"YouTube Analytics API, v2", https://www.googleapis.com/auth/youtube.readonly
+"YouTube Analytics API, v2", https://www.googleapis.com/auth/youtubepartner
+"YouTube Analytics API, v2", https://www.googleapis.com/auth/yt-analytics-monetary.readonly
+"YouTube Analytics API, v2", https://www.googleapis.com/auth/yt-analytics.readonly
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtube
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtube.channel-memberships.creator
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtube.force-ssl
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtube.readonly
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtube.upload
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtubepartner
+"YouTube Data API, v3", https://www.googleapis.com/auth/youtubepartner-channel-audit
+"YouTube Reporting API, v1", https://www.googleapis.com/auth/yt-analytics-monetary.readonly
+"YouTube Reporting API, v1", https://www.googleapis.com/auth/yt-analytics.readonly
